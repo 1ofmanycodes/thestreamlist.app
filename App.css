@@ -1,0 +1,18 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+.App {
+  text-align: center;
+}
+nav button {
+  margin: 0 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+form input {
+  padding: 10px;
+  margin-right: 10px;
+}
+form button {
+  padding: 10px 20px;
+}
